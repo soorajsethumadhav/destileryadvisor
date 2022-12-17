@@ -2429,14 +2429,13 @@ ul{
 	clear: both;
 	float: left;
 	padding-top: 190px;
-	margin-bottom: 200px;
 	position: relative;
 }
 .dizme_tm_contact .contact_inner{
 	width: 100%;
 	display: flex;
 	margin-top: 80px;
-	margin-bottom: 182px;
+	margin-bottom: 80px;
 	position: relative;
 }
 .dizme_tm_contact .left{
@@ -2951,4 +2950,7 @@ input[type=number] {
 	.dizme_tm_contact{padding-top: 123px;}
 	.dizme_tm_contact .contact_inner{margin-top: 67px;margin-bottom: 120px;}
 	.dizme_tm_contact{margin-bottom: 120px;}
+}
+li.icon-list-item {
+	display: flex;
 }
